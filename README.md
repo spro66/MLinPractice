@@ -1,4 +1,3 @@
-This line is new
 # ML in Practice
 Source code for the Seminar "Machine Learning in Practice", taught at Osnabrück University in the winter term 2021/2022.
 =======
