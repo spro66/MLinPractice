@@ -1,7 +1,7 @@
 # ML in Practice
 Source code for the Seminar "Machine Learning in Practice", taught at Osnabrück University in the winter term 2021/2022.
 =======
-# Machine Learning in Practice
+# Machine Learning in Practice 2021/22
 Source code for the practical Seminar "Machine Learning in Practice", taught at Osnabrück University in the winter term 2021/2022 at the Insitute of Cognitive Science.
 >>>>>>> 1a15cc7c40b299c734e626c4764aa2992a0c9e0c
 
